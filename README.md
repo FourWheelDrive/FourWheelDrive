@@ -1,4 +1,4 @@
-### Hello!
+## Hello!
 I'm an Electrical Engineering student who got hooked on web games at the tail end of high school. I've been developing much more in HTML5 and Javascript recently!
 
 # What am I working on?
