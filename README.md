@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello!
+
+I'm an Electrical Engineering student who got hooked on web games at the tail end of high school. I've been developing much more in HTML5 and Javascript recently!
+
+I'm currently working on better web responsiveness and more pleasant typography. Check out my [portfolio website](fourwheeldrive.github.io)!
+Where time allows, I'd like to learn server-side coding with Node.js and SQL to make my websites more dynamic.
+
 
 <!--
 **FourWheelDrive/FourWheelDrive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
